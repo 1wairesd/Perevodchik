@@ -101,7 +101,7 @@
 
 ## Лицензия
 
-MIT License
+[MIT License](https://github.com/1wairesd/Perevodchik/blob/main/License)
 
 ---
 
