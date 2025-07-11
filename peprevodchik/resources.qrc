@@ -2,4 +2,9 @@
   <qresource>
     <file>icon/perevodchik.ico</file>
   </qresource>
+  <qresource prefix="/translations">
+    <file>translations/perevodchik_ru.qm</file>
+    <file>translations/perevodchik_uk.qm</file>
+    <file>translations/perevodchik_en.qm</file>
+  </qresource>
 </RCC> 

@@ -19,15 +19,11 @@ endif()
 set(SOURCES
     main.cpp
     MainWindow.cpp
-    TextOverlayWidget.cpp
     LayoutFixer.cpp
-    SettingsDialog.cpp
 )
 set(HEADERS
     MainWindow.h
-    TextOverlayWidget.h
     LayoutFixer.h
-    SettingsDialog.h
 )
 
 add_executable(Perevodchik ${SOURCES} ${HEADERS})

@@ -8,7 +8,7 @@ Compression=lzma
 SolidCompression=yes
 
 [Files]
-Source: "C:\Data\plugins\IdeaProjects\Perevodchik\build\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\...\Perevodchik\build\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
 Name: "{group}\Perevodchik"; Filename: "{app}\Perevodchik.exe"
